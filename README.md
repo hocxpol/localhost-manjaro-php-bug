@@ -1,4 +1,4 @@
-# localhost-manjaro-php-bug
+# upgrade manjaro php bug and terminal bug
 
 Solved bug upgrade manjaro localhost and terminal - February 2021
 
