@@ -24,7 +24,7 @@ sudo systemctl status httpd
 
 ####### terminal #######
 
-# Install vscode and run (open terminarl ctrl+shift+´)
+# Install vscode and run (open terminar ctrl+shift+´)
 # Software Install
 
 # uncomment line with en_US.UTF-8 UTF-8
